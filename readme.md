@@ -5,4 +5,5 @@ In this project, the Frank-Wolf algorithm was implemented in Python to solve the
 * The topology of the network is given in file anaheim.xlsx.  
 * This spreadsheet also contains the travel cost (calculated by free flow speed and the link length) and capacity information of each link. 
 * The OD trip table is given in fort2.txt along with a spreadsheet file which explains its format (this is a forward-star representation of the OD information).
+
 Algorithms of label-correcting, golden-section, and frank-wolfe are included in this project.
